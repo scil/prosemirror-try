@@ -28,6 +28,6 @@
     "build-by-rollup": "rollup -c",
     "watch-by-rollup": "rollup -c -w",
 
-    "start": "serve public"
+    "start": "npx serve public"
   }
 }
